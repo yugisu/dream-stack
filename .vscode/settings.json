@@ -1,0 +1,10 @@
+{
+  "eslint.workingDirectories": ["./frontend"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.eol": "\n",
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
