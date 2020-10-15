@@ -1,5 +1,5 @@
-# dream-stack > frontend
+# dream-stack 🍬
 
 A dream full stack application technologies stack...
 
-Currently under construction `🚧`
+#### Currently under construction `🚧`
